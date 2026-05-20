@@ -1,0 +1,36 @@
+### 📊 API Test Metrics
+
+| API | Total Tests | Passed | Failed | Coverage |
+|-----|------------|--------|--------|----------|
+| OpenWeather | 8 | 8 | 0 | 100% |
+| JSONPlaceholder | 10 | 10 | 0 | 100% |
+| PokéAPI | 6 | 6 | 0 | 100% |
+| **TOTAL** | **24** | **24** | **0** | **100%** |
+
+### 🛠️ Skills Demonstrated
+
+- ✅ API request construction
+- ✅ HTTP methods (GET, POST, PUT, DELETE)
+- ✅ Request/response validation
+- ✅ Status code assertions
+- ✅ JSON parsing and validation
+- ✅ Error handling testing
+- ✅ API documentation reading
+
+### 🚀 How to Use Postman
+
+1. Download: https://www.postman.com/downloads/
+2. Create workspace
+3. Create requests for each API
+4. Add assertions
+5. Run collection
+
+### 📚 Learning Resources
+
+- Postman Learning: https://learning.postman.com/
+- API Testing Best Practices
+- REST API Fundamentals
+
+---
+
+**Last Updated:** Mayo 2026
